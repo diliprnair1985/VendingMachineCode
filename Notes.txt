@@ -1,0 +1,2 @@
+1) Completed the code and Jasmine test.
+2) I have done only the basic jasmine testing.
